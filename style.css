@@ -1,0 +1,21 @@
+.container{
+    background-color: none;
+}
+#navbarNav{
+    color: gray;
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.card{
+    margin-left: 20px;
+}
+
+.categories{
+    margin-top: 40px;
+}
